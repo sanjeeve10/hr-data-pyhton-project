@@ -1,1 +1,1 @@
-# hr-data-pyhton-project
+Analyzed a cricket batsman dataset using Python, Pandas, and Matplotlib to explore player performance. Created visualizations such as histograms and pie charts to understand run distribution and dismissal patterns. This project demonstrates data analysis, data visualization, and basic exploratory data analysis (EDA) skills.
